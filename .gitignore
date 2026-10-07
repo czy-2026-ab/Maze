@@ -1,0 +1,20 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Codely / AI tooling cache
+/.codely-cli/
+
+# Visual Studio / Rider
+/.vs/
+
+# Copyrighted font asset - not published to this public repo
+/Assets/msyh.ttc
+/Assets/msyh.ttc.meta
